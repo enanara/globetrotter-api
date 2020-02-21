@@ -1,0 +1,1 @@
+Create env.json with database credentials
